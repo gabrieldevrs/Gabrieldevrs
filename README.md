@@ -32,7 +32,6 @@ Atualmente cursando o **5º semestre de Análise e Desenvolvimento de Sistemas**
   <img height="180" src="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/profile-summary-card-output/radical/1-repos-per-language.svg" />
 </p>
 
-
 ---
 
 ## 🚀 Tecnologias e Linguagens
