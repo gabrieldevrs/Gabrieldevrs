@@ -17,19 +17,21 @@ Atualmente cursando o **5º semestre de Análise e Desenvolvimento de Sistemas**
 
 ## 🕹️ Contribuições (Pac-Man + Snake)
 
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/github-contribution-grid-snake-dark.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/github-contribution-grid-snake.svg">
 </picture>
-
 ---
 
 ## ⭐ GitHub Stats
 
-<a href="https://github.com/gabrieldevrs">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrieldevrs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrieldevrs&layout=compact&langs_count=6&theme=radical" />
-</a>
+<p align="left">
+  <img height="180" src="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/profile-summary-card-output/radical/0-profile-details.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/profile-summary-card-output/radical/3-stats.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/profile-summary-card-output/radical/1-repos-per-language.svg" />
+</p>
+
 
 ---
 
