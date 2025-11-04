@@ -5,14 +5,15 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # a cada 12h
+    - cron: "0 */12 * * *"   # a cada 12 horas
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate GitHub profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
