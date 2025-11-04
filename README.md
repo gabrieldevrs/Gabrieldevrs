@@ -15,7 +15,7 @@ Atualmente cursando o **5º semestre de Análise e Desenvolvimento de Sistemas**
 
 ---
 
-## 🕹️ Contribuições (Pac-Man + Snake)
+## 🕹️ Contribuições 
 
 <!-- Snake -->
 <picture>
