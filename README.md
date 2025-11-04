@@ -24,7 +24,7 @@ Atualmente cursando o **5º semestre de Análise e Desenvolvimento de Sistemas**
 </picture>
 ---
 
-## ## ⭐ GitHub Stats
+## ⭐ GitHub Stats
 
 <a href="https://github.com/gabrieldevrs">
   <img
