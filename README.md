@@ -27,9 +27,14 @@ Atualmente cursando o **5º semestre de Análise e Desenvolvimento de Sistemas**
 ## ⭐ GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/profile-summary-card-output/radical/0-profile-details.svg" />
-  <img height="180" src="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/profile-summary-card-output/radical/3-stats.svg" />
-  <img height="180" src="https://raw.githubusercontent.com/gabrieldevrs/gabrieldevrs/output/profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieldevrs&theme=radical&cache_seconds=7200"
+  />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieldevrs&theme=radical&cache_seconds=7200"
+  />
 </p>
 
 ---
